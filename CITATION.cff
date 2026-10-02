@@ -18,5 +18,4 @@ keywords:
   - budgerigar
   - Arduino
   - Python
-# After Zenodo gives you a DOI, uncomment and fill in:
-# doi: 10.5281/zenodo.XXXXXXX
+doi: 10.5281/zenodo.23103168
