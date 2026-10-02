@@ -9,5 +9,5 @@ When pressing start each song are associated with a speaker and a perch. When th
 
 ![Logic_scheme](https://github.com/Maiolini-M/4CT-Software_of_operant_preference_test/blob/main/Logic_Schemes/Logic_scheme_carousel.jpg)
 
-![Logic scheme 2](https://github.com/Maiolini-M/4CT-Software_of_operant_preference_test/blob/main/Logic_scheme/Logic_scheme_two_perches.jpg)
+![Logic scheme 2](https://github.com/Maiolini-M/4CT-Software_of_operant_preference_test/blob/main/Logic_Schemes/Logic_scheme_two_perches.jpg)
 
