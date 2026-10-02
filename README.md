@@ -51,7 +51,7 @@ python 4CT.py
 5. Set the starting speaker position and, optionally, the times and positions of the switches.
 6. Press **START**. Press **END** to stop the session and export the log.
 
-Detailed instructions are in the [`Guideline`](Guideline) folder (also available in the program under *Help → Guidelines*). Diagrams of the set-up logic are in [`Logic_schemes`](Logic_schemes).
+Detailed instructions are in the [`Guideline`](Guideline) folder (also available in the program under *Help → Guidelines*). Diagrams of the set-up logic are in [`Logic_Schemes`](Logic_Schemes).
 
 ## Hardware
 
