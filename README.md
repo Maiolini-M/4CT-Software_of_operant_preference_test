@@ -1,4 +1,5 @@
 # 4CT – Software for four-choice operant song preference tests
+[![DOI](https://zenodo.org/badge/1401643650.svg)](https://doi.org/10.5281/zenodo.23103111)
 
 4CT is a Python GUI for running four-choice operant song preference experiments with birds (e.g. zebra finches and budgerigars). Four perches are connected to an Arduino. When a bird lands on a perch, the program plays the song assigned to that perch through the matching speaker, counts the visit, and logs every event with a millisecond timestamp.
 
@@ -84,7 +85,7 @@ At START, the program logs the settings (species, timeout, selected files, times
 
 If you use 4CT in your research, please cite:
 
-> Maiolini, M. (2026). *4CT: Software for four-choice operant song preference tests* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> > Maiolini, M. (2026). *4CT: Software for four-choice operant song preference tests* (Version 1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23103168
 
 You can also use the **Cite this repository** button on the right side of the GitHub page.
 
