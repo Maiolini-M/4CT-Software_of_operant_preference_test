@@ -191,7 +191,7 @@ menu_bar.add_cascade(label="Help", menu=help_menu)
 guideline_menu = tk.Menu(help_menu, tearoff=0)
 
 def open_4CT_documentation():
-    webbrowser.open("https://github.com/Maiolini-M/4CT---Behavioural-biology-Leiden/tree/main/Guideline")
+    webbrowser.open("https://github.com/Maiolini-M/4CT-Software_of_operant_preference_test/tree/main/Guideline")
 
 help_menu.add_cascade(label="Guidelines", menu=guideline_menu)
 guideline_menu.add_command(label="4CT Documentation", command=open_4CT_documentation)
@@ -1190,4 +1190,4 @@ if ser is None:
 #Bind the window close event to the on_closing function
 root.protocol("WM_DELETE_WINDOW", on_closing)
 
-root.mainloop()
+root.mainloop()
