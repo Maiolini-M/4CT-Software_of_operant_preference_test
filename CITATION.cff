@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "4CT: Software for four-choice operant song preference tests"
+version: 1.0.0
+date-released: 2026-10-02
+authors:
+  - family-names: Maiolini
+    given-names: Marco
+    affiliation: Leiden University
+    orcid: "https://orcid.org/0009-0008-1886-679X"
+repository-code: "https://github.com/Maiolini-M/4CT-Software_of_operant_preference_test"
+license: MIT
+keywords:
+  - operant preference test
+  - song preference
+  - birdsong
+  - zebra finch
+  - budgerigar
+  - Arduino
+  - Python
+# After Zenodo gives you a DOI, uncomment and fill in:
+# doi: 10.5281/zenodo.XXXXXXX
