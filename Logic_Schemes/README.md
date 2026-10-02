@@ -1,4 +1,4 @@
-# Pyhton script for the GUI of the 4 choice experiment
+# Python script for the GUI of the 4 choice experiment
 
 The app control the 4 speakers (1, 2, 3, 4) in the setup and play different songs (A, B, C, D). With a combobox you select the starting position associated for each song to each speakers. While with a spinbox you select the timeout period that the microswitch's perch have to count an occurence.
 
